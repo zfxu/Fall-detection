@@ -12,11 +12,6 @@ Fall-detection（摔倒/跌倒检测）in the room
 ### fall-detection algorithms
 
   * detection human
-  
-  * classify whether fall down or not(still on the way)/custom rules
-### Requirements
-
-  * Python and opencv
   * classify whether fall down or not(still on the way)/custom rules  
 ## Installation
 
