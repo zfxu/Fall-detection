@@ -14,7 +14,10 @@ Fall-detection（摔倒/跌倒检测）in the room
   * detection human
   
   * classify whether fall down or not(still on the way)/custom rules
-  
+### Requirements
+
+  * Python and opencv
+  * Linux (Windows and Mac os are not officially supported, but should work)  
 ## Installation
 
 ### Requirements
