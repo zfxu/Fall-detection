@@ -36,6 +36,13 @@ make
 
 If you are having trouble with installation, you can Issue me!
 
+### run the demo
+
+  * download [yolo.weights](https://pan.baidu.com/s/1eTqopgQ),the password is bp6c
+  * ```python
+    python gq.py
+    '''
+
 ## Thanks
 
 * Many, many thanks to [pjreddie](https://pjreddie.com/darknet/yolo/) for his Great work!
