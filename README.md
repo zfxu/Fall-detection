@@ -38,10 +38,12 @@ If you are having trouble with installation, you can Issue me!
 
 ### run the demo
 
-  * download [yolo.weights](https://pan.baidu.com/s/1eTqopgQ),the password is bp6c
-  * ```python
-    python gq.py
-    '''
+  First, download [yolo.weights](https://pan.baidu.com/s/1eTqopgQ),the password is /* bp6c */  
+  Then, install this module :
+
+  ```bash
+  python gq.py
+  ```
 
 ## Thanks
 
