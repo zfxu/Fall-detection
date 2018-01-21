@@ -38,7 +38,7 @@ If you are having trouble with installation, you can Issue me!
 
 ### run the demo
 
-  First, download [yolo.weights](https://pan.baidu.com/s/1eTqopgQ), the password is： bp6c 
+  First, download [yolo.weights](https://pan.baidu.com/s/1eTqopgQ), the password is： bp6c.
   Then, install this module :
 
   ```bash
